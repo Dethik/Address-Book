@@ -1,6 +1,6 @@
-# Mr Roboger's Neighborhood
+# -Main Name-
 
-#### This is my end of week project for Week 3.
+#### -Short Sum-
 
 #### By - Zack Rutledge
 

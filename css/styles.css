@@ -1,0 +1,23 @@
+.colorBlue {
+  background-color: blue;
+}
+
+.colorRed {
+  background-color: red;
+}
+
+.colorOrange{
+  background-color: orange;
+}
+
+.colorYellow {
+  background-color: yellow;
+}
+
+.col-6 {
+  text-align: center;
+}
+
+.germany, .spain, .mexico, .usa {
+  display: none;
+}
